@@ -1,5 +1,5 @@
 # Mini_Application
-ZOHO mini Application which consists list of Applications.
+Mini Application which consists list of Applications.
 
 @ ATM Application :
 
